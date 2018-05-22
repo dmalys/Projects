@@ -1,0 +1,4 @@
+10 dodac 5
+3 odjac 2
+77 zonk 3
+99 dodac 1
